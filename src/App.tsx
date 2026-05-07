@@ -46,7 +46,7 @@ export default function App() {
     <div className="portfolio">
       <header>
         <div className="container">
-          <div className="logo">PQH.</div>
+          <div className="logo">PHAM QUYNH HUONG</div>
           <nav>
             <ul>
               <li><a href="#about">About</a></li>
@@ -108,11 +108,11 @@ export default function App() {
             <div className="grid-2">
               <div className="about-text">
                 <p style={{ fontSize: '1.125rem', marginBottom: '1.5rem' }}>
-                  Pham Quynh Huong is a Digital Marketing and MarTech professional based in Vietnam with 3+ years of relevant experience across paid social advertising operations, CMS and website projects, e-commerce workflows, and campaign reporting.
+                  I'm a Digital Marketing and MarTech professional based in Vietnam with 3+ years of relevant experience across paid social advertising operations, CMS and website projects, e-commerce workflows, and campaign reporting.
                 </p>
                 <p style={{ color: 'var(--text-muted)' }}>
-                  She has nearly 3+ years of hands-on experience supporting advertisers on a <strong>global paid social advertising platform</strong>, covering campaign setup issues, Pixel tracking, Conversion API, Product Catalog, and performance troubleshooting.
-                  Proactive and remote-ready, she is confident in written English and capable of managing recurring tasks independently while flagging risks and recommending improvements.
+                  I have nearly 3+ years of hands-on experience supporting advertisers on a <strong>global paid social advertising platform</strong>, covering campaign setup issues, Pixel tracking, Conversion API, Product Catalog, and performance troubleshooting.
+                  Proactive and remote-ready, I'm confident in written English and capable of managing recurring tasks independently while flagging risks and recommending improvements.
                 </p>
               </div>
               <div className="about-stats card" style={{ background: '#f8fafc' }}>
