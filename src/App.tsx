@@ -82,7 +82,7 @@ export default function App() {
                   <span className="highlight-label">Relevant Experience</span>
                 </div>
                 <div className="highlight-item">
-                  <span className="highlight-val">2 Years</span>
+                  <span className="highlight-val">3+ Years</span>
                   <span className="highlight-label">Paid Social Ops</span>
                 </div>
                 <div className="highlight-item">
@@ -111,7 +111,7 @@ export default function App() {
                   Pham Quynh Huong is a Digital Marketing and MarTech professional based in Vietnam with 3+ years of relevant experience across paid social advertising operations, CMS and website projects, e-commerce workflows, and campaign reporting.
                 </p>
                 <p style={{ color: 'var(--text-muted)' }}>
-                  She has nearly 2 years of hands-on experience supporting advertisers on a <strong>global paid social advertising platform</strong>, covering campaign setup issues, Pixel tracking, Conversion API, Product Catalog, and performance troubleshooting.
+                  She has nearly 3+ years of hands-on experience supporting advertisers on a <strong>global paid social advertising platform</strong>, covering campaign setup issues, Pixel tracking, Conversion API, Product Catalog, and performance troubleshooting.
                   Proactive and remote-ready, she is confident in written English and capable of managing recurring tasks independently while flagging risks and recommending improvements.
                 </p>
               </div>
@@ -226,8 +226,8 @@ export default function App() {
                     <div className="exp-title">Digital Marketing Operations Specialist — Paid Social Ads & Client Support</div>
                   </div>
                   <div className="exp-meta">
-                    <div>July 2024 – Present</div>
-                    <div style={{ fontWeight: 600 }}>Nearly 2 Years Experience</div>
+                    <div>July 2023 – Present</div>
+                    <div style={{ fontWeight: 600 }}>Nearly 3 Years Experience</div>
                   </div>
                 </div>
                 <ul className="exp-bullets">
@@ -253,7 +253,7 @@ export default function App() {
                     <div className="exp-title">Digital Project Coordinator — Website, CMS & E-commerce Projects</div>
                   </div>
                   <div className="exp-meta">
-                    <div>May 2023 – June 2024</div>
+                    <div>Jan 2022 – June 2023</div>
                   </div>
                 </div>
                 <ul className="exp-bullets">
@@ -279,7 +279,7 @@ export default function App() {
                     <div className="exp-title">Operations & Administrative Coordinator</div>
                   </div>
                   <div className="exp-meta">
-                    <div>Sept 2022 – Nov 2022</div>
+                    <div>Aug 2021 – Jan 2022</div>
                   </div>
                 </div>
                 <ul className="exp-bullets">
