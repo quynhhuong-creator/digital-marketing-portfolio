@@ -53,7 +53,7 @@ export default function App() {
               <li><a href="#skills">Skills</a></li>
               <li><a href="#experience">Experience</a></li>
               <li><a href="#case-studies">Cases</a></li>
-              <li><a href="#contact" className="btn btn-primary" style={{ padding: '0.5rem 1rem' }}>Hire Me</a></li>
+              <li><a href="#contact" className="btn btn-primary" style={{ padding: '0.5rem 1rem' }}>Contact Me</a></li>
             </ul>
           </nav>
         </div>
